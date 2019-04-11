@@ -1,4 +1,0 @@
-class DogWalkerController < ApplicationController
-
-
-end
